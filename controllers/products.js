@@ -108,10 +108,12 @@ const updateProduct =async ({ params,request ,response }) =>{
 
 //delete single product
 //route new/product/:id
-const deleteProduct = ({params, response }) =>{
+const deleteProduct = ({params, response }) =>
+{
     products = products.filter(p => p.id !== params.id)
-    response.body ={
-        success:true,
+    response.body =
+    {
+        success: true,
         msg: "Product Removed"
     }
     
