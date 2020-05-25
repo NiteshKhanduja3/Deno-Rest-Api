@@ -12,7 +12,7 @@
 > POST To create a new product
 
 > PUT  To Update an existing Product
-S
+
 > Delete To delete the single product
 
 ---
