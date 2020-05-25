@@ -1,3 +1,4 @@
+![](deno.png)
 # Deno Rest API
 ## JavaScript
 ---
@@ -8,7 +9,7 @@
 > POST To create a new product
 
 > PUT  To Update an existing Product
-
+S
 > Delete To delete the single product
 
 ---
@@ -22,6 +23,16 @@ _Routes :-_
 >> To get All products:- localhost:3003/new/products
 
 >>To Create New Product :- localhost:3003/new/product
+
+
+```JSON
+{
+	"name":"surf xl updated",
+	"description":"washing powder",
+	"price":"200"
+	
+} 
+```
 
 >> To get Single products:- localhost:3003/new/product/:id
 
