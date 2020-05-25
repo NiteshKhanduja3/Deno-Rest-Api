@@ -1,4 +1,6 @@
-<img src ="Deno.png" width="100" height="100">
+
+<p align = "center"><img src ="Deno.png" width="100" height="100">
+</p>
 
 # Deno Rest API
 
